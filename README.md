@@ -10,15 +10,8 @@ Welcome to my profile! \
 I'm a Computer Science student who is passionate about Back end and Data Science.
 <img height="12px" src="https://github.com/pierrelapalu/icones-bandeiras-br-uf/blob/master/dist/rounded/png-200/01-brasil-rounded.png?raw=true">
 
-<div style="display: flex">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ChristianHSousa&show_icons=true&theme=dark"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianHSousa&layout=compact&langs_count=16&theme=dark"/>
-</div> 
 
-
-
-
-### Technologies:
+## Stacks:
 <div>
 
   <img align="center" alt="HTML" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -30,5 +23,10 @@ I'm a Computer Science student who is passionate about Back end and Data Science
   
 </div>
 
-##
+## GitHub Stats:
+<div style="display: flex">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ChristianHSousa&show_icons=true&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianHSousa&layout=compact&langs_count=16&theme=dark"/>
+</div> 
+
 
