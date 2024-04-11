@@ -1,8 +1,8 @@
 <h1 align="center">Hello World 👋, I'm Christian</h1>
-
+<div style="display:flex">
 <img alt="StaticBadge" src="https://img.shields.io/badge/-Christian%20Henrique-%230E76A8?style=flat&logo=linkedin&labelColor=%230E76A8)" href='https://www.linkedin.com/in/christian-henrique-866762208/'>
 <img alt="Static Badge" src="https://img.shields.io/badge/-ChristianHSousa-%23940994?style=flat&logo=instagram&labelColor=%23940994"href='#'><img alt="Static Badge" src="https://img.shields.io/badge/-ChrisHSouza-%23EA4335?style=flat&logo=gmail&logoColor=%23ffffff">
-
+</div>
 <br>
 
 Welcome to my profile! I'm a Computer Science student who is passionate about Back end and Data Science. 
