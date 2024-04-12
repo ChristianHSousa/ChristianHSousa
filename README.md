@@ -3,7 +3,10 @@
 
 [![Static Badge](https://img.shields.io/badge/-Christian%20Henrique-%230E76A8?style=flat&logo=linkedIn&labelColor=%230E76A8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchristian-henrique-866762208%2F)](https://www.linkedin.com/in/christian-henrique-866762208/)
 
+[![Static Badge](https://img.shields.io/badge/-ChrisHSouza-%23EA4335?style=flat&logo=gmail&logoColor=%23ffffff&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchristian-henrique-866762208%2F)](https://www.linkedin.com/in/christian-henrique-866762208/)
+
 <img alt="Static Badge" src="https://img.shields.io/badge/-ChristianHSousa-%23940994?style=flat&logo=instagram&labelColor=%23940994"href='#'>
+
 <img alt="Static Badge" src="https://img.shields.io/badge/-ChrisHSouza-%23EA4335?style=flat&logo=gmail&logoColor=%23ffffff">
 </div>
 <br>
