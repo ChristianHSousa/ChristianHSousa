@@ -9,7 +9,7 @@
 <br>
 
 Welcome to my profile! \
-I'm a Computer Science student who is passionate about BackEnd and Data Science.
+I'm a Computer Science student who is passionate about BackEnd.
 <img height="12px" src="https://github.com/pierrelapalu/icones-bandeiras-br-uf/blob/master/dist/rounded/png-200/01-brasil-rounded.png?raw=true">
 
 
